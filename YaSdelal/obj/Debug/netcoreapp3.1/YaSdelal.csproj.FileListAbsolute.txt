@@ -1,0 +1,13 @@
+C:\Users\ANIMEBETTERTHENFILMS\source\repos\YaSdelal\YaSdelal\bin\Debug\netcoreapp3.1\YaSdelal.exe
+C:\Users\ANIMEBETTERTHENFILMS\source\repos\YaSdelal\YaSdelal\bin\Debug\netcoreapp3.1\YaSdelal.deps.json
+C:\Users\ANIMEBETTERTHENFILMS\source\repos\YaSdelal\YaSdelal\bin\Debug\netcoreapp3.1\YaSdelal.runtimeconfig.json
+C:\Users\ANIMEBETTERTHENFILMS\source\repos\YaSdelal\YaSdelal\bin\Debug\netcoreapp3.1\YaSdelal.runtimeconfig.dev.json
+C:\Users\ANIMEBETTERTHENFILMS\source\repos\YaSdelal\YaSdelal\bin\Debug\netcoreapp3.1\YaSdelal.dll
+C:\Users\ANIMEBETTERTHENFILMS\source\repos\YaSdelal\YaSdelal\bin\Debug\netcoreapp3.1\YaSdelal.pdb
+C:\Users\ANIMEBETTERTHENFILMS\source\repos\YaSdelal\YaSdelal\obj\Debug\netcoreapp3.1\YaSdelal.csprojAssemblyReference.cache
+C:\Users\ANIMEBETTERTHENFILMS\source\repos\YaSdelal\YaSdelal\obj\Debug\netcoreapp3.1\YaSdelal.AssemblyInfoInputs.cache
+C:\Users\ANIMEBETTERTHENFILMS\source\repos\YaSdelal\YaSdelal\obj\Debug\netcoreapp3.1\YaSdelal.AssemblyInfo.cs
+C:\Users\ANIMEBETTERTHENFILMS\source\repos\YaSdelal\YaSdelal\obj\Debug\netcoreapp3.1\YaSdelal.csproj.CoreCompileInputs.cache
+C:\Users\ANIMEBETTERTHENFILMS\source\repos\YaSdelal\YaSdelal\obj\Debug\netcoreapp3.1\YaSdelal.dll
+C:\Users\ANIMEBETTERTHENFILMS\source\repos\YaSdelal\YaSdelal\obj\Debug\netcoreapp3.1\YaSdelal.pdb
+C:\Users\ANIMEBETTERTHENFILMS\source\repos\YaSdelal\YaSdelal\obj\Debug\netcoreapp3.1\YaSdelal.genruntimeconfig.cache
